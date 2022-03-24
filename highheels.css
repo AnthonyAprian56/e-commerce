@@ -1,0 +1,115 @@
+#shop{
+    height: auto;
+    background-color: #EFEFEF;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navigation {
+    height: auto;
+   background-color: #EFEFEF;
+    float: left;
+    width: 100%;
+   
+    text-align: center;
+}
+
+#header{
+    background-color: pink;
+}
+
+ h2 {
+	text-indent: 100px;
+	width: 10px;
+	height: 10x;
+    font-size: auto;
+    color: #888;
+    padding: 50px 50px 5px 50px;
+    
+    
+}
+
+
+a {
+	clear: both;
+	color: #ffffff;
+/* 	background-color: #FFC6C6; */
+	height: auto;
+    color: #888;
+    width: auto;
+    padding: 3px 3px 0px 3px;
+}
+
+
+
+.logo{
+/*    padding-top: 10px;*/
+    padding-bottom: 20px;
+    padding-right: 40px;
+    vertical-align: middle;
+    height: 80px;
+    width: 80px; 
+}
+
+table#header{
+    color: #888;
+}
+
+
+
+.menu{
+    padding-top: 45px;
+    padding-right: 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: #888;
+    font-size: 1em;
+    font-family: serif;
+    background-color: #EFEFEF;
+}
+
+.menu:hover{
+    color: black;
+}
+
+.search{
+    background-color: #EFEFEF;
+    border: 1px solid #888;
+    color: #888;
+}
+
+a:hover{
+    color:black;
+}
+
+
+#content{
+
+    padding:100px 100px 100px 100px;
+    width:auto;
+    background-color: #FFC6C6;
+    float:center;
+    width:100%;
+}
+
+
+
+
+#footer {
+    height:100px;
+    line-height:auto;
+    width:auto;
+    background-color: #FF6666;
+    color:white;
+    margin:0px auto;
+    border:1px dashed #CCC;
+    bottom:0px;
+    
+}
+footer {
+	font-size: 80%;
+	padding: 7px 0px 0px 20px;
+    }

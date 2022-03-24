@@ -1,0 +1,231 @@
+
+#shop{
+    background-color: #EFEFEF;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFC6C6;
+}
+
+/*HEADER*/
+a {
+    clear: both;
+    height: auto;
+    color: #888;
+    width: auto;
+    padding: 3px 3px 0px 3px;
+    text-decoration: none;
+}
+
+
+#navigation {
+    height: auto;
+    padding-top: 20px;
+    text-align: right;
+    width: 100%;
+    font-family: serif;
+    text-decoration: none;
+}
+
+.imglogo{
+    text-align: center;
+}
+
+.weblogo{
+    width:300px;
+}
+
+
+#navigation2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+
+.pembatas{
+    width: 1250px;
+    border-color: lightgray ;
+    border-top-style: solid;
+    border-right: hidden;
+    border-left: hidden;
+    border-bottom: hidden;
+    margin-bottom:-10px;
+    padding-bottom: 30px;
+}
+
+#navigation3{
+    padding-left: 20px;
+    margin-bottom: 50px;
+}
+
+.menuhome{
+    padding-right: 10px;
+     padding-top: 45px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#header{
+    background-color: pink;
+}
+
+#nav{
+    text-align: center;
+    color: black;
+    text-decoration: bold;
+   
+}
+
+/* Dropdown Button */
+.dropbtn {
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    color: #888;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+.menu{
+    padding-top: 45px;
+    padding-right: 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: #888;
+    font-size: 1em;
+    font-family: serif;
+    background-color: #EFEFEF;
+}
+
+
+
+.search{
+    background-color: #EFEFEF;
+    border: 1px solid #888;
+    color: #888;
+}
+
+#navigation3{
+    padding-left: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+.logo{
+/*    padding-top: 10px;*/
+    padding-bottom: 20px;
+    padding-right: 40px;
+    vertical-align: middle;
+    height: 80px;
+    width: 80px; 
+}
+
+table#header{
+    color: #888;
+}
+
+
+
+/*pendaftaran*/
+#form{
+     border: 4px; 
+     height: 500px 
+     width: 1000px;
+     float: center;
+     padding: 5px 100px 100px 20px;
+     margin-left: 350px;
+}
+
+#form tr{
+    height: 50px;
+}
+
+
+
+.font{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.input{
+    width:400px;
+    height:30px;
+}
+
+/*footer*/
+
+footer{
+	font-size: 80%;
+	padding: 7px 0px 0px 20px;
+    color:white;
+    background: linear-gradient(#FF6666, #FFAEAE);
+    padding-bottom: 10px;
+    }
+
+.footerkiri{
+    float:left;
+    margin-right: 100px;
+}
+
+.footertengah{
+    float:left;
+}
+
+.footertengah img{
+    width:20px;
+}
+
+.footerkanan{
+    float: right;
+}
+
+.footerkanan p:first-child{
+    margin-bottom: -20px;
+}
+
+.clear{
+    clear: both;
+}
+
+
